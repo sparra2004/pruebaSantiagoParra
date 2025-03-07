@@ -1,0 +1,3 @@
+C:/GIT/Domicilio/cmake-build-debug/CMakeFiles/Pedido.dir
+C:/GIT/Domicilio/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/GIT/Domicilio/cmake-build-debug/CMakeFiles/rebuild_cache.dir
