@@ -25,6 +25,17 @@ void Pedido::mostrarPedido() {
     cout << "Estado: " << this->estado << endl;
     cout << "Cliente: " << this->cliente.getNombre() << endl;
     for(int i = 0; i < platos.size(); i++){
-
+        platos[i].mostrarInformacion();
     }
+    cout << endl;
+}
+
+int Pedido::calcularTotal() {
+    int total = 0;
+    for(int i = 0; i < platos.size(); i++){
+        if(platos[i].getPrecio() != 0){
+            total += platos[i].getPrecio();
+        }
+    }
+    return total;
 }

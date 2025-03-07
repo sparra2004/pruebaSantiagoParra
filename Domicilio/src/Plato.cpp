@@ -17,4 +17,6 @@ void Plato::mostrarInformacion(){
 int Plato ::getPrecio() {
     return this->precio;
 }
-
+string Plato ::getPlato() {
+    return this->nombrePlato;
+}

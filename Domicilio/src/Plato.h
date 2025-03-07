@@ -18,6 +18,8 @@ public:
     Plato(string, float);
     void mostrarInformacion();
     int getPrecio();
+    string getPlato();
+
 };
 
 

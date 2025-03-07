@@ -6,7 +6,7 @@
 #define PEDIDO_PEDIDO_H
 #include <iostream>
 #include <string>
-#include <list>
+#include <vector>
 #include "Plato.h"
 #include "Cliente.h"
 using namespace std;
@@ -16,7 +16,7 @@ private:
     int nPedido;
     string estado;
     Cliente cliente;
-    list<Plato>platos;
+    vector<Plato>platos;
     int totalPagar;
 public:
     Pedido(int, string, Cliente);

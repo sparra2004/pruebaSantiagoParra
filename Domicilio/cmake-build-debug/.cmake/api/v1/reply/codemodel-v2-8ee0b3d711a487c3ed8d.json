@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/GIT/Domicilio/cmake-build-debug",
-		"source" : "C:/GIT/Domicilio"
+		"build" : "C:/GIT/Revision/pruebaSantiagoParra/Domicilio/cmake-build-debug",
+		"source" : "C:/GIT/Revision/pruebaSantiagoParra/Domicilio"
 	},
 	"version" : 
 	{

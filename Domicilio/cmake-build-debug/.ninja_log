@@ -1,0 +1,14 @@
+# ninja log v6
+21	1797	7630774351210613	CMakeFiles/Pedido.dir/src/Plato.cpp.obj	33c473f891b4f487
+33	1802	7630774351338862	CMakeFiles/Pedido.dir/src/Cliente.cpp.obj	d4acc1266aa3f888
+11	1272	7630774738214872	CMakeFiles/Pedido.dir/main.cpp.obj	196c422fe2a5ec55
+19	1344	7630774738301213	CMakeFiles/Pedido.dir/src/Pedido.cpp.obj	8ccbc60d554bd5aa
+1344	1538	7630774751540899	Pedido.exe	55d2d1d74ef6d953
+8	825	7630775647152569	CMakeFiles/Pedido.dir/main.cpp.obj	196c422fe2a5ec55
+827	1039	7630775655336915	Pedido.exe	55d2d1d74ef6d953
+11	826	7630776112850615	CMakeFiles/Pedido.dir/main.cpp.obj	196c422fe2a5ec55
+826	972	7630776121008065	Pedido.exe	55d2d1d74ef6d953
+13	979	7630777467735376	CMakeFiles/Pedido.dir/main.cpp.obj	196c422fe2a5ec55
+980	1147	7630777477409260	Pedido.exe	55d2d1d74ef6d953
+12	787	7630778292625919	CMakeFiles/Pedido.dir/main.cpp.obj	196c422fe2a5ec55
+788	945	7630778300378193	Pedido.exe	55d2d1d74ef6d953
