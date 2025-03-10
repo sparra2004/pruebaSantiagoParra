@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/GIT/Libreria/cmake-build-debug",
-		"source" : "C:/GIT/Libreria"
+		"build" : "C:/GIT/Revision/pruebaSantiagoParra/Libreria/cmake-build-debug",
+		"source" : "C:/GIT/Revision/pruebaSantiagoParra/Libreria"
 	},
 	"version" : 
 	{

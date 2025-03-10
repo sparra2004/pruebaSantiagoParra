@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/GIT/Libreria/cmake-build-debug"
+			"value" : "c:/GIT/Revision/pruebaSantiagoParra/Libreria/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/GIT/Libreria/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/GIT/Revision/pruebaSantiagoParra/Libreria/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/GIT/Libreria"
+			"value" : "C:/GIT/Revision/pruebaSantiagoParra/Libreria"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1279,7 +1279,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/GIT/Libreria/cmake-build-debug"
+			"value" : "C:/GIT/Revision/pruebaSantiagoParra/Libreria/cmake-build-debug"
 		},
 		{
 			"name" : "Libreria_IS_TOP_LEVEL",
@@ -1303,7 +1303,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/GIT/Libreria"
+			"value" : "C:/GIT/Revision/pruebaSantiagoParra/Libreria"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",

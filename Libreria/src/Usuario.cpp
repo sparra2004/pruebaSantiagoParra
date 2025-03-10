@@ -10,16 +10,6 @@ Usuario::Usuario(int id, string nombre){
 void Usuario::comprarLibro(Libro libro){
     this->libros.push_back(libro);
 }
-void Usuario::regalarLibro(int idLibro) {
-    for (int i = 0; i < this->libros.size(); i++) {
-        if (this->libros[i].getId() == idLibro) {
-            cout << this->nombre << " regalo el libro con id: " << libros[i].getId() << endl;
-            libros.erase(libros.begin() + i);
-            return;
-        }
-    }
-    cout << "No se encontro el libro con el id: " << idLibro << endl;
-}
 void Usuario::mostrarLibros() {
     if (libros.empty()) {
         cout << this->nombre << " no tiene libros." << endl;

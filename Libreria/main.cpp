@@ -26,10 +26,6 @@ void solve() {
     maria.mostrarLibros();
 
 
-    // Santiago regala un libro
-    santiago.regalarLibro(1);
-    cout << "Libros de Santiago despues de regalar:" << endl;
-    santiago.mostrarLibros();
 
 }
 
